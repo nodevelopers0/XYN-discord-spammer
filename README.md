@@ -1,18 +1,19 @@
 🚀 Key Features
-Automated Message Flooding
+
+• Automated Message Flooding
 Send hundreds or thousands of messages per minute with a single slash command.
 
-Customizable Content & Rate
+• Customizable Content & Rate
 – Define your own message templates (including mentions, embeds, attachments).
 – Control interval delays to evade rate limits.
 
-Multi-Intent Support
+•Multi-Intent Support
 Enables both Server Members Intent and Message Content Intent for full API access.
 
-Easy Configuration
+• Easy Configuration
 All settings (token, target IDs, message lists, delays) stored in a simple config.json.
 
-Graceful Shutdown
+• Graceful Shutdown
 Stops spamming immediately on command or error, ensuring your token remains intact.
 
 
@@ -24,16 +25,16 @@ https://www.python.org/downloads/
 
 2. Discord Applaction & Bot Token
 
- Go to the Discord Developer Portal.
+• Go to the Discord Developer Portal.
 .https://discord.com/developers/applications/
 
-Create a new application → Bot → Copy Token.
+• Create a new application → Bot → Copy Token.
 
-Under Privileged Gateway Intents, toggle on:
+• Under Privileged Gateway Intents, toggle on:
 
-Server Members Intent
+• Server Members Intent
 
-Message Content Intent
+• Message Content Intent
 
 🛠️ Installation
 
