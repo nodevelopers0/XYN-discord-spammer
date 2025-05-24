@@ -19,7 +19,6 @@ All settings (token, target IDs, message lists, delays) stored in a simple confi
 Stops spamming immediately on command or error, ensuring your token remains intact.
 
 
-
 ⚙️ Prerequisites
 1. Python 3.10+
 Download and install from the official site:
@@ -41,3 +40,4 @@ https://www.python.org/downloads/
 🛠️ Installation
 
 Made by zqsoc 
+github: https://github.com/nodevelopers0/XYN-discord-spammer/
