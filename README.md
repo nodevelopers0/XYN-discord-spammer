@@ -37,7 +37,9 @@ https://www.python.org/downloads/
 
 • Message Content Intent
 
-🛠️ Installation
+-----------------------------------------------------------------------------------------------------------------------------
+
+add to apps not server it will not work in a server
 
 Made by zqsoc 
 github: https://github.com/nodevelopers0/XYN-discord-spammer/
