@@ -1,3 +1,5 @@
+# XYN SPAMMER
+
 🚀 Key Features
 
 • Automated Message Flooding
@@ -37,12 +39,5 @@ https://www.python.org/downloads/
 • Message Content Intent
 
 🛠️ Installation
-
-# Clone this repository
-git clone https://github.com/nodevelopers0/XYN-discord-spammer
-cd xyn-spammer
-
-# Install dependencies
-pip install -r requirements.txt
 
 Made by zqsoc 
