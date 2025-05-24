@@ -1,22 +1,47 @@
-"XYN spammer"
+🚀 Key Features
+Automated Message Flooding
+Send hundreds or thousands of messages per minute with a single slash command.
 
-dm zqsoc on discord if you have any issues
+Customizable Content & Rate
+– Define your own message templates (including mentions, embeds, attachments).
+– Control interval delays to evade rate limits.
 
-make sure you have python 
- https://www.python.org/downloads/
+Multi-Intent Support
+Enables both Server Members Intent and Message Content Intent for full API access.
 
-Go to the discord developer portal: https://discord.com/developers/applications/
+Easy Configuration
+All settings (token, target IDs, message lists, delays) stored in a simple config.json.
 
-make a new applaction and copy then token and turn theese on
-Intention of server members
-
-Intent of message content 
-
-Add the app to your discord app 
-
-Start the install-requirement.bat after you can start the raider
-
+Graceful Shutdown
+Stops spamming immediately on command or error, ensuring your token remains intact.
 
 
-/spam to start spamming discords
 
+⚙️ Prerequisites
+1. Python 3.10+
+Download and install from the official site:
+https://www.python.org/downloads/
+
+2. Discord Applaction & Bot Token
+
+ Go to the Discord Developer Portal.
+.https://discord.com/developers/applications/
+
+Create a new application → Bot → Copy Token.
+
+Under Privileged Gateway Intents, toggle on:
+
+Server Members Intent
+
+Message Content Intent
+
+🛠️ Installation
+
+# Clone this repository
+git clone https://github.com/nodevelopers0/XYN-discord-spammer
+cd xyn-spammer
+
+# Install dependencies
+pip install -r requirements.txt
+
+Made by zqsoc 
