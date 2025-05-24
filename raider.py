@@ -92,7 +92,7 @@ class SpamButton(discord.ui.View):
 @app_commands.describe(message="The message you want to spam")
 async def spam(interaction: discord.Interaction, message: str):
     view = SpamButton(message)
-    await interaction.response.send_message(f"Spam text? : {message}", view=view, ephemeral=True)  
+    await interaction.response.send_message(f"⚠️ Are you sure you want to spam this messgae?! ⚠️ : {message}", view=view, ephemeral=True)  
 
 @bot.event
 async def on_ready():
